@@ -68,7 +68,13 @@ Utilize o gerenciador de pacotes ```pip install -i https://test.pypi.org/simple/
 
    ```pip install image-processing-test```
 
---- 
+---
+
+# Pacote publicado no Test Pypi
+
+![Test PyPi](https://github.com/Trevisolli/image-processing/blob/main/image_processing-test/image_processing-test.png?raw=true "Pacote publicado no Test Pypi")
+
+---
 
 # Importação do pacote nos projetos
 
